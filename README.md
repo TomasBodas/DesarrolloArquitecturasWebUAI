@@ -1,5 +1,6 @@
 # DesarrolloArquitecturasWebUAI
 cambios desde la maquina local rama santiagoabasto subido pull request. 
+paulinaguerra
 Login Singleton
 Perfiles Usuario (Usuario Familia Patente (Siguiente Cuatrimestre))
 Digito Verificador
